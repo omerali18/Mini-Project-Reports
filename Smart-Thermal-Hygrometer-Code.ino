@@ -22,7 +22,7 @@ float tempC;
 float tempF;
 
 //Blynk auth
-char auth[] = "5grXWjJZOPYI1q4hw-onU3uOC3maP6PB";
+char auth[] = "5grXWjJZOPYI1q4hw-onU3******P6PB";
 char ssid[] = "OnePlus_Nord";
 char pass[] = "Okok1234";
 
